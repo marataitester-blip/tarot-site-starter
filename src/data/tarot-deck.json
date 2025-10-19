@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "name_ru": "Шут",
+    "arcana": "Major",
+    "number": 0,
+    "keywords_en": ["new beginnings", "innocence", "spontaneity", "free spirit"],
+    "keywords_ru": ["новые начинания", "невинность", "спонтанность", "свободный дух"],
+    "description_en": "The Fool represents new beginnings, having faith in the future, being inexperienced, not knowing what to expect, having beginner's luck, improvisation and believing in the universe.",
+    "description_ru": "Шут представляет новые начинания, веру в будущее, неопытность, незнание чего ожидать, удачу новичка, импровизацию и веру во вселенную."
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "name_ru": "Маг",
+    "arcana": "Major",
+    "number": 1,
+    "keywords_en": ["manifestation", "resourcefulness", "power", "inspired action"],
+    "keywords_ru": ["проявление", "находчивость", "сила", "вдохновенное действие"],
+    "description_en": "The Magician is about making higher arcane forces work on the material plane, taking action, concentrating and having the ability to manifest your goals.",
+    "description_ru": "Маг - это о том, чтобы заставить высшие тайные силы работать на материальном плане, принимать меры, концентрироваться и иметь способность проявлять свои цели."
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "name_ru": "Верховная Жрица",
+    "arcana": "Major",
+    "number": 2,
+    "keywords_en": ["intuition", "sacred knowledge", "divine feminine", "subconscious mind"],
+    "keywords_ru": ["интуиция", "священное знание", "божественная женственность", "подсознание"],
+    "description_en": "The High Priestess represents intuition, sacred knowledge, the divine feminine, and the subconscious mind.",
+    "description_ru": "Верховная Жрица представляет интуицию, священное знание, божественную женственность и подсознательный разум."
+  }
+]
