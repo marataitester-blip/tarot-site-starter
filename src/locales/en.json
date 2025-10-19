@@ -1,0 +1,28 @@
+{
+  "app": {
+    "title": "Tarot AI",
+    "subtitle": "Discover Your Path with AI-Powered Tarot Readings"
+  },
+  "nav": {
+    "home": "Home",
+    "reading": "Reading",
+    "about": "About"
+  },
+  "reading": {
+    "title": "Your Tarot Reading",
+    "draw_card": "Draw a Card",
+    "ask_question": "Ask your question...",
+    "get_interpretation": "Get AI Interpretation",
+    "listening": "Listening...",
+    "card_drawn": "Card Drawn"
+  },
+  "interpretation": {
+    "title": "AI Interpretation",
+    "loading": "Interpreting your reading...",
+    "error": "Error getting interpretation. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "powered_by": "Powered by Yandex SpeechKit"
+  }
+}
