@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import Gallery from './components/Gallery'
 import './App.css'
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         </div>
       </header>
       <main>
+        <Gallery />
         <div className="card">
           <button onClick={() => setCount((count) => count + 1)}>
             {t('reading.draw_card')}
