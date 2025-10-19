@@ -1,0 +1,35 @@
+{
+  "name": "tarot-site-starter",
+  "version": "1.0.0",
+  "description": "Starter template for Tarot AI site (React+Vite, RU/EN, Yandex SpeechKit, GitHub Pages)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.5.0",
+    "i18next": "^23.7.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8",
+    "gh-pages": "^6.1.0"
+  },
+  "keywords": [
+    "tarot",
+    "ai",
+    "react",
+    "vite",
+    "yandex-speechkit",
+    "github-pages",
+    "i18n",
+    "multilingual"
+  ],
+  "author": "",
+  "license": "MIT"
+}
